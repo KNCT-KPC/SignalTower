@@ -1,0 +1,16 @@
+(use srfi-27)
+(random-source-randomize! default-random-source)
+
+(define kazuate (lambda ()
+       (kazuate-body (+ 1 (random-integer 40)))
+     ))
+
+(define kazuate-body (lambda (n)
+        (let ((m (read)))
+          (cond
+            ((< n m) (print "コンピューターの値よりより大きいです。もう一度入力してください") (kazuate-body n))
+            ((> n m) (print "コンピューターの値よりより小さいです。もう一度入力してください") (kazuate-body n))
+            ((= n m) (print "正解です。お疲れさまでした") 'これは情報科2年で学ぶ言語を利用して作られています。)
+            (else (print "エラーです。50以下の数字を入力してください") (kazuate-body n))
+          ))
+       ))
