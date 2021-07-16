@@ -1,1 +1,8 @@
 # Reflexes_game
+
+/Buidl_WebGL内にビルドしたものがあります
+index.htmlを開けば動くはずなんですが
+何故かローカルでは動かないので仮想サーバでwebサーバ立てて動かすか
+どこか適当なwebサーバに入れると動きます
+
+Unityで開く場合はRellexes_gameディレクトリごとUnityで読み込めばいいはず
