@@ -1,0 +1,26 @@
+﻿  main.cpp
+d:\github\c\shootinggame_oc\main.cpp(122): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+d:\github\c\shootinggame_oc\main.cpp(123): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+d:\github\c\shootinggame_oc\main.cpp(594): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+d:\github\c\shootinggame_oc\main.cpp(595): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+d:\github\c\shootinggame_oc\main.cpp(604): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+d:\github\c\shootinggame_oc\main.cpp(739): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+d:\github\c\shootinggame_oc\main.cpp(747): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+d:\github\c\shootinggame_oc\main.cpp(783): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+d:\github\c\shootinggame_oc\main.cpp(791): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+d:\github\c\shootinggame_oc\main.cpp(814): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+d:\github\c\shootinggame_oc\main.cpp(827): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+d:\github\c\shootinggame_oc\main.cpp(830): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+d:\github\c\shootinggame_oc\main.cpp(846): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+d:\github\c\shootinggame_oc\main.cpp(877): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+d:\github\c\shootinggame_oc\main.cpp(908): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+d:\github\c\shootinggame_oc\main.cpp(939): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+d:\github\c\shootinggame_oc\main.cpp(940): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+d:\github\c\shootinggame_oc\main.cpp(971): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+d:\github\c\shootinggame_oc\main.cpp(972): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+d:\github\c\shootinggame_oc\main.cpp(975): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+d:\github\c\shootinggame_oc\main.cpp(1069): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+d:\github\c\shootinggame_oc\main.cpp(1157): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+d:\github\c\shootinggame_oc\main.cpp(1245): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+d:\github\c\shootinggame_oc\main.cpp(1333): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  ShootingGame_OC.vcxproj -> D:\Github\C\ShootingGame_OC\Debug\ShootingGame_OC.exe
